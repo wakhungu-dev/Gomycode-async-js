@@ -1,9 +1,7 @@
-Here’s a sample `README.md` for your project:
 
-```markdown
-# Jbar Store
+# J-Store
 
-Jbar Store is an e-commerce platform where users can browse and shop for products online. This project showcases a simple yet functional online shopping experience, built with HTML, CSS (Tailwind CSS), and JavaScript.
+J-Store is an e-commerce platform where users can browse and shop for products online. This project showcases a simple yet functional online shopping experience, built with HTML, CSS (Tailwind CSS), and JavaScript.
 
 ## Features
 
